@@ -1,8 +1,7 @@
+______________________________________________________________________
 <div align="center">
 
 # 🤖 AI Awesome Project Template
-
-______________________________________________________________________
 
 <p align="center">
   <a href="https://github.com/wiktorlazarski">👋 Author</a>
