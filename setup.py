@@ -12,7 +12,10 @@ with open("README.md", "r", encoding="UTF-8") as fh:
 __version__ = runpy.run_path("ai_awesome/_version.py")["__version__"]
 
 # Setup package
-setuptools.setup(name="Replace with project name", version=__version__, author="Replace with your name",
+setuptools.setup(
+    name="Replace with project name",
+    version=__version__,
+    author="Replace with your name",
     author_email="Replace with your email",
     description="Give short description of your project.",
     long_description=long_description,
