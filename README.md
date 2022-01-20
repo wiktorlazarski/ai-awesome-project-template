@@ -26,6 +26,10 @@ git clone https://github.com/wiktorlazarski/ai-awesome-project-template.git
 # Go to repo directory
 cd ai-awesome-project-template
 
+# (Optional) Create virtual environment
+python -m venv venv
+source ./venv/bin/activate
+
 # Install project in editable mode
 pip install -e .
 
