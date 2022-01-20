@@ -17,7 +17,7 @@ You may want to adjust badge links in a README.md file.
 </div>
 
 
-## Setup
+## ⚙️ Setup
 
 **Before setting up a project,** make sure that the `setup.py` script has all setup parameters adjusted and change an `ai_awesome` directory name to your project name. Also, if you want to use conda environment, you may want to change its name in a `conda_env.yml` file. Then, follow the instruction:
 
@@ -39,7 +39,7 @@ pip install -e .
 pre-commit install
 ```
 
-## Setup with Anaconda or Miniconda
+## 🐍 Setup with Anaconda or Miniconda
 
 **Before setting up a project,** make sure that the `setup.py` script has all setup parameters adjusted and change an `ai_awesome` directory name to your project name. Additionally, you may want to change a default (_ai_awesome_env_) conda environment name in a `conda_env.yml` file. Then, follow the instruction:
 
@@ -57,3 +57,5 @@ conda activate ai_awesome_env
 # (Optional but recommended) Install pre-commit hooks to preserve code format consistency
 pre-commit install
 ```
+
+### 🤗 Happy coding !
