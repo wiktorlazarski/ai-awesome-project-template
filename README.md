@@ -15,9 +15,6 @@ You may want to adjust badge links in README.md file.
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch/ignite/blob/master/examples/notebooks/FashionMNIST.ipynb)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wiktorlazarski/ai-awesome-project-template/blob/master/LICENSE)
-<br />
-[![stars - ai-awesome-project-template](https://img.shields.io/github/stars/wiktorlazarski/ai-awesome-project-template?style=social)](https://github.com/wiktorlazarski/ai-awesome-project-template)
-[![forks - ai-awesome-project-template](https://img.shields.io/github/forks/wiktorlazarski/ai-awesome-project-template?style=social)](https://github.com/wiktorlazarski/ai-awesome-project-template)
 
 </div>
 
