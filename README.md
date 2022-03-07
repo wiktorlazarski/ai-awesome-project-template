@@ -18,6 +18,13 @@ You may want to adjust badge links in a README.md file.
 
 </div>
 
+## 💎 Installation with `pip`
+
+Installation is as simple as running:
+
+```bash
+pip install git+https://github.com/wiktorlazarski/ai-awesome-project-template.git
+```
 
 ## ⚙️ Setup
 
@@ -60,4 +67,8 @@ conda activate ai_awesome_env
 pre-commit install
 ```
 
+<div align="center">
+
 ### 🤗 Happy coding !
+
+</div>
