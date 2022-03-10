@@ -1,0 +1,14 @@
+hydra:
+  run:
+    dir: 'train_experiment/${now:%Y-%m-%d}/${now:%H-%M}'
+  output_subdir: 'yamls'
+
+dataset_module:
+  batch_size: 4
+  num_workers: 2
+
+nn_module:
+  lr: 0.0001
+
+training:
+  max_epochs: 10
