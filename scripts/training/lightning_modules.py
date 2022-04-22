@@ -11,6 +11,7 @@ class DataModule(pl.LightningDataModule):
         batch_size: int,
         num_workers: int,
     ):
+        super().__init__()
         self.batch_size = batch_size
         self.num_workers = num_workers
 
