@@ -26,7 +26,7 @@ def main(configs: omegaconf.DictConfig) -> None:
     )
 
     nn_trainer.fit(nn_module, dataset_module)
-    nn_trainer.test()
+    nn_trainer.test(nn_module, dataset_module)
 
 
 if __name__ == "__main__":
