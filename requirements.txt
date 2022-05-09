@@ -1,13 +1,7 @@
-black
-flake8
 hydra-core
-isort
-jupyterlab
 matplotlib
 numpy
 pandas
-pre-commit
-pytest
 pytorch-lightning
 seaborn
 torch
